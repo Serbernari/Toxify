@@ -1,2 +1,2 @@
 # Toxify
-Research porposes only! ;)
+Research purposes only! ;)
